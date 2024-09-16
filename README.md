@@ -1,8 +1,27 @@
-Node.js Authentication 
-This is a simple Node.js application that provides user authentication features, including user registration and login, using PostgreSQL as the database.
-Features
-User registration and login
-Password hashing using bcrypt
-Session management with express-session
-PostgreSQL integration for data storage
-Flash messages for success and error handling
+# Node.js Authentication 
+
+A simple Node.js application for user authentication, featuring registration and login using PostgreSQL
+
+## Features
+
+- **User Registration**: Allows new users to register.
+- **User Login**: Authenticates existing users with hashed passwords.
+- **Session Management**: Secure session handling using `express-session`.
+- **PostgreSQL Integration**: Data stored securely in a PostgreSQL database.
+- **Flash Messages**: Provides feedback for errors and successes.
+
+## Prerequisites
+
+Make sure you have the following installed:
+
+- [Node.js](https://nodejs.org/)
+- [PostgreSQL](https://www.postgresql.org/)
+  
+
+## Technologies Used
+
+- **Node.js**: JavaScript runtime.
+- **PostgreSQL**: Relational database.
+- **bcrypt**: Library for hashing passwords.
+- **EJS**: Templating engine for rendering views.
+
