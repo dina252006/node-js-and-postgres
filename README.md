@@ -23,5 +23,5 @@ Make sure you have the following installed:
 - **Node.js**: JavaScript runtime.
 - **PostgreSQL**: Relational database.
 - **bcrypt**: Library for hashing passwords.
-- **EJS**: Templating engine for rendering views.
+- **EJS**: Templating engine for rendering views. 
 
